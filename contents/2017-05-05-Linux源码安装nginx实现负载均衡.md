@@ -1,4 +1,4 @@
-# Linux源码安装nginx实现负载均衡"
+# Linux源码安装nginx实现负载均衡
 
 本文介绍了如何在Linux上安装nginx并实现在多台主机上的服务负载均衡。
 
